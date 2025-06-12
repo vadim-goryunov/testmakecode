@@ -36,6 +36,7 @@ let offset = 10
 let status_bar_height = 20
 let status_text_color = 1
 
+
 train = sprites.create(assets.image`trainHead`, SpriteKind.Train)
 train.setFlag(SpriteFlag.StayInScreen, false)
 
